@@ -2,3 +2,7 @@
 *.class
 /target
 .idea/
+*.log
+*.log.*
+logs/
+log/
